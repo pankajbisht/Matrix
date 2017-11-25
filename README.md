@@ -20,6 +20,4 @@ yes it is.
 
 it's second
 
-# 3rd Commit here
-
-We need to change.
+# 3rd Commit
